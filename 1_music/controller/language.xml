@@ -1,0 +1,32 @@
+<?xml version='1.0' ?>
+<langues>
+	<langue translate="fr">
+		<tag name="mus_titre">MUSIQUE</tag>
+		<tag name="mus_disque">Disque</tag>
+		<tag name="mus_ecoute">à l'écoute</tag>
+		<tag name="mus_album">Album</tag>
+		<tag name="mus_artiste">Artiste</tag>
+		<tag name="mus_total_album">Total Albums</tag>
+		<tag name="mus_album_ajoute">Albums ajouté à la playlist.</tag>
+		<tag name="mus_album_charge">Albums chargé dans la playlist.</tag>
+	</langue>	
+	<langue translate="en">
+		<tag name="mus_titre">MUSIC</tag>
+		<tag name="mus_disque">Disk</tag>
+		<tag name="mus_ecoute">Listening</tag>
+		<tag name="mus_album">Album</tag>
+		<tag name="mus_artiste">Artist</tag>
+		<tag name="mus_total_album">Total Albums</tag>
+		<tag name="mus_album_ajoute">Albums added to the playlist.</tag>
+		<tag name="mus_album_charge">Albums loaded into the playlist.</tag>
+	</langue>
+	<langue translate="it">
+		<tag name="mus_titre">MUSICA</tag>
+	</langue>
+	<langue translate="ge">
+		<tag name="mus_titre">MUSIC</tag>
+	</langue>	
+	<langue translate="es">
+		<tag name="mus_titre">MÚSICA</tag>
+	</langue>
+</langues>
